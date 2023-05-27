@@ -1,0 +1,15 @@
+.footer{
+    margin-top: 2rem;
+}
+
+.footer span{
+    color: red;
+}
+
+/* .gridOff{
+    flex-direction: column;
+}
+
+.gridOn{
+    flex-direction: row;
+} */
